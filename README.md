@@ -1,7 +1,8 @@
 ## Project: Wrangle and Analyze Data
 Abebe Tarekegne, 03/02/2019
 
-- Introduction
+### Contents
+
 - 1. Gather Data: Enhanced CSV, Image Prediction URL Link, and from Twitter API.
 - 2. Assess Gathered Data
 - 3. Clean Assessed Data
